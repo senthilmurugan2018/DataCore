@@ -74,9 +74,11 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="HomePage.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="FirstClass.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <PropertyGroup>
